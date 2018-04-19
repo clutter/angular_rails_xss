@@ -1,0 +1,14 @@
+AllCops:
+  TargetRubyVersion: 2.5.1
+
+Style/ExpandPathArguments:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/SpecialGlobalVars:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
